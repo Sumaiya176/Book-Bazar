@@ -1,0 +1,14 @@
+.home {
+    margin-left:255px;
+    background-image: url(../../images/bg1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    border: 1px solid black;
+}
+
+.text {
+    text-align:center;
+    font-size:50px;
+}
